@@ -80,7 +80,7 @@ a:active {
 	font-size: 18px;
 }
 img {
-	display: block;
+	/*display: block;*/
 	max-width: 100%;
 	height: auto;
 }
@@ -745,6 +745,5 @@ textarea {
 .img-rounded{
     width:145px;
     height:200px;
-    display:block;
     background-position-y:25% 
 }
