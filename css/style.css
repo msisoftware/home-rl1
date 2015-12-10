@@ -741,3 +741,11 @@ textarea {
         height: 75%;
     }
 }
+
+div.hr {
+	border: 0;
+  	width: 80%;
+  	color: #f00;
+	background-color: #f00;
+	height: 3px;
+}
