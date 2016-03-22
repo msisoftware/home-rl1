@@ -13,7 +13,7 @@
 		$(".banner-image").backstretch('images/banner.jpg');
 		
 		
-		// Fixed header
+		// Fixed headerr
 		//-----------------------------------------------
 		$(window).scroll(function() {
 			if (($(".header.fixed").length > 0)) { 
